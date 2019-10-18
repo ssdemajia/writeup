@@ -1,0 +1,1 @@
+~/cmd2 "command -p cat fl'a'g"
